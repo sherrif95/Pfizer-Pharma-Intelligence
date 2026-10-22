@@ -292,7 +292,7 @@ VAR PreviousMonthEnd =
 
 Use `REMOVEFILTERS('Master Calendar'[Date])` before applying `DATESBETWEEN` for each full-month comparison. Validate behaviour against the report's intended semantics and available data.
 
-## 8. Power BI report pages
+## 8. Power BI report pages - https://app.powerbi.com/view?r=eyJrIjoiYTZmOWE5ZDMtZjJhYy00MzNkLWJkYmQtYTQwMWE3MmM1MzU1IiwidCI6ImUyMTFlYmVjLTMyM2QtNDVhNC05OGQ1LTk5NzU5MDA0YjJhNiIsImMiOjF
 
 The report uses a consistent Bayer-inspired design system: dark navy navigation/header, pale background, white visual cards, blue chart accents, and distinct green, red, and magenta insight panels.
 
